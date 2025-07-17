@@ -1,6 +1,6 @@
 # Hey there! I'm Nihar 👋
 
-I'm a **Product Designer** from Bangalore, India — working at the intersection of design, tech, and growth.
+I'm a **Product Designer** from Bangalore, India, working at the intersection of design, tech, and growth.
 
 - 🛠 I led design at **Biconomy**, crafting developer dashboards and UX for web3 products  
 - ✍️ I once ran a branding studio called **Slangbusters**  
