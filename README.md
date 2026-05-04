@@ -26,4 +26,4 @@ Code is a tool I use to think, prototype, and ship.
 ## Links
 
 - 🌐 https://nihar.works  
-- 🐦 https://twitter.com/niharbhagat
+- 🐦 https://twitter.com/neonihar
