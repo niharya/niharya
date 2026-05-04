@@ -1,23 +1,29 @@
 # Hey, I’m Nihar
 
-Design engineer working at the intersection of product thinking and building.
+Product designer focused on systems.
 
-I like entering systems, understanding how they work, and shaping them through code.
+I enter complex products, understand their structure, and shape them into clear, usable systems.  
+Code is a tool I use to think, prototype, and ship.
 
 ## Work
 
-- Built developer dashboards at **Biconomy**, shaping features from spec to frontend
-- Designed and built **nihar.works** (Next.js, React, TypeScript)
-- Exploring product systems like onboarding, time-to-value, and developer experience
-- Building games like **Rug Rumble**
+- Designed developer-facing systems at **Biconomy**, shaping dashboards and core flows  
+  → https://nihar.works/biconomy
+
+- Built **nihar.works** to express my design thinking in code (Next.js, React, TypeScript)
+
+- Created **Rug Rumble**, a strategy card game—from rules and mechanics to frontend  
+  → https://nihar.works/rug-rumble
+
+- Have worked with PMs and teams on acquisition, onboarding, engagement, retention, monetization for products
 
 ## Current focus
 
-- Product + frontend execution
-- Systems thinking in real products
-- AI as a coding and design collaborator
+- Designing product systems end-to-end  
+- Bringing rigor to developer-facing UX  
+- Using AI as a thinking and execution partner  
 
 ## Links
 
-- 🌐 https://nihar.works
+- 🌐 https://nihar.works  
 - 🐦 https://twitter.com/niharbhagat
